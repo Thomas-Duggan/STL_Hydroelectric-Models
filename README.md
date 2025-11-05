@@ -1,7 +1,7 @@
 ## Notes
 
-- Due to the size of the files, downloads can be found below.
-- This was not designed for 3D printing.
+- Due to the size of the files, downloads can be found below
+- This was not designed for 3D printing
 
 ## Included
 
