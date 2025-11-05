@@ -5,7 +5,7 @@
 
 ## Included
 
-- Francis Turbine with Generator + Scroll Case with Discharge Valve
+- Francis Turbine with Generator and Flywheel + Scroll Case with Discharge Valve
 - Seperable Industrial Transformer with Iron Core
 - Outdoors Energy Translocation Overview with Spillway, Penstock, and Powerlines
 - Home Power Delivery Overview with Local Distribution Transformer
