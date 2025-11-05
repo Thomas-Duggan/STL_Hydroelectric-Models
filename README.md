@@ -3,6 +3,13 @@
 - Due to the size of the files, downloads can be found below.
 - This was not designed for 3D printing.
 
+## Included
+
+- Francis Turbine with Generator + Scroll Case with Discharge Valve
+- Seperable industrial transformer with Iron Core
+- Outdoors Overview with Spillway, Penstock, and Powerlines.
+- Home Power Delivery Overview with Local Distribution Transformer
+
 ## Link
 
 https://cad.onshape.com/documents/9dc67a5c6ee1110a85557101/w/78441919159ddefe62cf86e2/e/519d424330f17aafca29babb?renderMode=0&uiState=68c0289b4f3b477eead80be0
