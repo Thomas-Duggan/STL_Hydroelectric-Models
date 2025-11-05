@@ -21,7 +21,7 @@ A 3D overview of Hydroelectric generation, loosely based on Deer Lake Power.
 
 ## Issues
 
-- None / Unknown
+- Turbine scroll case has two water entries around the circular section when there should only be one
 
 ## Created for
 
